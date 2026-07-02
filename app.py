@@ -16,7 +16,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 st.sidebar.image(
-    "images/Logo.jpeg",
+    "Logo.jpeg",
     width=180
 )
 
